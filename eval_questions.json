@@ -1,0 +1,10 @@
+[
+  {"question": "What is the minimum attendance required for exams?", "keyword": "75% attendance"},
+  {"question": "attendance 70% hai to kya karna hoga?", "keyword": "condonation"},
+  {"question": "What is the late fee for course registration?", "keyword": "Rs. 500"},
+  {"question": "What happens if CGPA is below 4.0?", "keyword": "repeat that semester"},
+  {"question": "When are mid-semester exams held?", "keyword": "8th week"},
+  {"question": "Late fee penalty on tuition fees?", "keyword": "2% per week"},
+  {"question": "Medical leave ke liye kya chahiye?", "keyword": "registered medical practitioner"},
+  {"question": "How long can a leave of absence be?", "keyword": "up to one semester"}
+]
